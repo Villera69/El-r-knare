@@ -20,7 +20,7 @@ while True:
     
     elDiff = elGammal - elNy
 
-    HDag = 60/MinDag
+    HDag = MinDag/60
 
     HÅr = HDag * 365
 
